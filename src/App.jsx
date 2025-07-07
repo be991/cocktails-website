@@ -11,6 +11,7 @@ const App = () => {
     <main>
        <Navbar/>
        <Hero/>
+       
     </main>
   )
 }
