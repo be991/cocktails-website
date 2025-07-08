@@ -2,7 +2,7 @@
 
 A modern, visually appealing cocktail-themed web application built with **React** and **Vite**. Explore delicious drinks, beautiful UI, and smooth user experience.
 
-![Cocktail App Banner](public/images/hero-left-leaf.png)
+![Cocktail App Banner](public/images/logo%20(4).png.jpg)
 
 ---
 
