@@ -1,12 +1,73 @@
-# React + Vite
+# 🍹 Cocktail App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, visually appealing cocktail-themed web application built with **React** and **Vite**. Explore delicious drinks, beautiful UI, and smooth user experience.
 
-Currently, two official plugins are available:
+![Cocktail App Banner](public/images/hero-left-leaf.png)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🚀 Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- Fast and modern React + Vite setup
+- Beautiful, responsive design
+- Cocktail menu and drink details
+- About, Art, and Contact sections
+- Custom fonts and stylish images
+- Easy navigation with a clean Navbar
+- Optimized assets and performance
+
+---
+
+## 📦 Getting Started
+
+1. **Clone the repository:**
+   ```sh
+   git clone <your-repo-url>
+   cd cocktail
+   ```
+2. **Install dependencies:**
+   ```sh
+   npm install
+   ```
+3. **Start the development server:**
+   ```sh
+   npm run dev
+   ```
+4. **Open in your browser:**
+   Visit [http://localhost:5173](http://localhost:5173)
+
+---
+
+## 🗂️ Project Structure
+
+- `src/` — Main source code (components, styles, entry points)
+- `public/` — Static assets (images, fonts, videos)
+- `constants/` — App constants
+- `index.html` — Main HTML file
+- `vite.config.js` — Vite configuration
+
+---
+
+## ✨ Screenshots
+
+| Home                            | Menu                              | About                                | Contact                          |
+| ------------------------------- | --------------------------------- | ------------------------------------ | -------------------------------- |
+| ![Home](public/images/abt1.png) | ![Menu](public/images/drink1.png) | ![About](public/images/profile1.png) | ![Contact](public/images/fb.png) |
+
+---
+
+## 🙏 Credits
+
+- UI/UX: [Your Name or Team]
+- Images & Assets: [List sources or "All assets are original"]
+- Built with [React](https://react.dev/) and [Vite](https://vitejs.dev/)
+
+---
+
+## 📄 License
+
+This project is open source and available under the [MIT License](LICENSE).
+
+---
+
+Enjoy mixing and exploring cocktails! 🍸

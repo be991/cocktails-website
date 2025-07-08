@@ -30,7 +30,7 @@ const Navbar = () => {
     <nav>
        <div>
           <a href="#home" className="flex items-center gap-2 text-white">
-            <img src='/images/logo (4).png'/>
+            <img src='/public/images/logo (4).png.jpg ' className='w-7 h-7'/>
             <p>Velvet Pour</p>
           </a>
 
